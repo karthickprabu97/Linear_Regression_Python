@@ -1,1 +1,1 @@
-# Linear_Regression_Python
+# The goal of this project is to predict the amount of customer spend using linear regression
